@@ -1,0 +1,10 @@
+body {
+    margin: 4%;
+}
+header {
+    height: 120px;
+    background-color: antiquewhite;
+}
+header h1 {
+    text-align: center;
+}
